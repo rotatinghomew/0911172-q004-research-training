@@ -1,0 +1,28 @@
+{
+  "records": [
+    {
+      "id": "t1",
+      "team": "a",
+      "session": "trained",
+      "score": 8
+    },
+    {
+      "id": "t2",
+      "team": "a",
+      "session": "trained",
+      "score": 7
+    },
+    {
+      "id": "t3",
+      "team": "b",
+      "session": "usual",
+      "score": 5
+    },
+    {
+      "id": "t4",
+      "team": "b",
+      "session": "usual",
+      "score": 6
+    }
+  ]
+}
